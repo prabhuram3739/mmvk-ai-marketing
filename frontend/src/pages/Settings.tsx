@@ -1,3 +1,7 @@
 export default function Settings() {
-  return <h1 style={{ color: "white", padding: 30 }}>Settings</h1>;
+  return (
+    <div style={{ color: "white", padding: 30 }}>
+      <h1>Settings</h1>
+    </div>
+  );
 }

@@ -1,3 +1,7 @@
 export default function GoogleBusiness() {
-  return <h1 style={{ color: "white", padding: 30 }}>Google Business</h1>;
+  return (
+    <div style={{ color: "white", padding: 30 }}>
+      <h1>Google Business</h1>
+    </div>
+  );
 }

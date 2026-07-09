@@ -1,3 +1,7 @@
 export default function Facebook() {
-  return <h1 style={{ color: "white", padding: 30 }}>Facebook</h1>;
+  return (
+    <div style={{ color: "white", padding: 30 }}>
+      <h1>Facebook Scheduler</h1>
+    </div>
+  );
 }
